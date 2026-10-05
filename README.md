@@ -6,13 +6,13 @@
 
 A cosmological prologue. The player occupies the Observer's POV at the moment the universe comes into being.
 
-## Listing
+## Visit
 
-https://doombringerz.com/games
+https://doombringerz.com/games/the-first-blink
 
 ---
 
-This repo is a profile tile. When the title is ready, the page will live in the games listing at the link above.
+This repo is a profile tile. The game page lives at the link above.
 
 Made by [Doombringerz](https://doombringerz.com).
 
